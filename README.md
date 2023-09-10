@@ -35,6 +35,8 @@ p-value: 0.9224618464415357 (homogeneity confirmed)
 ANOVA test statistic: 2.2142980209021
 p-value: 0.04540809731839591 (significant at p<0.05)
 
-![Uploading clusterafsall.svg…]()
+![clusterafsall](https://github.com/AhmedKhota/Clustering_and_ANOVA/assets/139664971/f54645b9-5f9a-4ec8-b696-02374311ad06)
 
-![Uploading ANOVAafsall.svg…]()
+![ANOVAafsall](https://github.com/AhmedKhota/Clustering_and_ANOVA/assets/139664971/79724ff8-b0b4-4e0e-b46e-b6e45bc5926d)
+
+
