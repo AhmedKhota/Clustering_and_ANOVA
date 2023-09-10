@@ -22,7 +22,7 @@ p-value: 0.005312623308672705 (significant)
 
  ![Silhoutte](https://github.com/AhmedKhota/Clustering_and_ANOVA/assets/139664971/5e996cb6-02d4-4a33-9066-67038d6597bd)
 
-![Uploading clusterafsall.svg…]()
+![clusterafsall](https://github.com/AhmedKhota/Clustering_and_ANOVA/assets/139664971/4910b76c-d4bf-4cfa-8f84-c29bf9eb824a)
 
 ![ANOVAALLk3minpnts7](https://github.com/AhmedKhota/Clustering_and_ANOVA/assets/139664971/31f16194-f360-4a9b-9123-80dfd2512ccc)
 
