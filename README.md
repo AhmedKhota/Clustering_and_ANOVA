@@ -20,11 +20,11 @@ p-value: 0.9792151648425554 (homogeneity confirmed)
 ANOVA test statistic: 3.4932787612705143
 p-value: 0.005312623308672705 (significant)
 
- ![Silhoutte](https://github.com/AhmedKhota/Clustering_and_ANOVA/assets/139664971/5e996cb6-02d4-4a33-9066-67038d6597bd)
+ ![Silhoutte scores for DBSCAN](/images/Silhoutte.png)
 
-![clusterafsall](https://github.com/AhmedKhota/Clustering_and_ANOVA/assets/139664971/4910b76c-d4bf-4cfa-8f84-c29bf9eb824a)
+![clusters for DBSCAN](/images/clusterafsall.png)
 
-![ANOVAALLk3minpnts7](https://github.com/AhmedKhota/Clustering_and_ANOVA/assets/139664971/31f16194-f360-4a9b-9123-80dfd2512ccc)
+![ANOVA for DBSCAN](/images/ANOVAafsall.png)
 
 **Kmeans results:**
 
@@ -35,8 +35,8 @@ p-value: 0.9224618464415357 (homogeneity confirmed)
 ANOVA test statistic: 2.2142980209021
 p-value: 0.04540809731839591 (significant at p<0.05)
 
-![clusterafsall](https://github.com/AhmedKhota/Clustering_and_ANOVA/assets/139664971/f54645b9-5f9a-4ec8-b696-02374311ad06)
+![clusters for Kmeans](/images/clusterafsallkmeans.png)
 
-![ANOVAafsall](https://github.com/AhmedKhota/Clustering_and_ANOVA/assets/139664971/79724ff8-b0b4-4e0e-b46e-b6e45bc5926d)
+![ANOVA for Kmeans](/images/ANOVAafsallkmeans.png)
 
 
